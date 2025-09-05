@@ -26,6 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Jordan Lyons's First CS193 Homework
+
+- Working with terminal
+- Learning how to use Github
+- Easy staring class to get into college
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
